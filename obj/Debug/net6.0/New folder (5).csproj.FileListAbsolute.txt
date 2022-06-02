@@ -1,0 +1,29 @@
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).AssemblyInfo.cs
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).RazorAssemblyInfo.cache
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).RazorAssemblyInfo.cs
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\appsettings.json
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\New folder (5).staticwebassets.runtime.json
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\New folder (5).exe
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\New folder (5).deps.json
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\New folder (5).runtimeconfig.json
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\New folder (5).dll
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\New folder (5).pdb
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marcus\Desktop\New folder (5)\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\scopedcss\bundle\New folder (5).styles.css
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\scopedcss\projectbundle\New folder (5).bundle.scp.css
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).csproj.CopyComplete
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).dll
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\refint\New folder (5).dll
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).pdb
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\New folder (5).genruntimeconfig.cache
+C:\Users\Marcus\Desktop\New folder (5)\obj\Debug\net6.0\ref\New folder (5).dll
